@@ -1,0 +1,71 @@
+C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rename_unit.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rename_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rename_unit
+
+Top level modules:
+	rename_unit
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/reservation_station.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/reservation_station.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reservation_station
+
+Top level modules:
+	reservation_station
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rob.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rob.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rob
+
+Top level modules:
+	rob
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/decode.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/decode.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/dispatch.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/dispatch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dispatch
+
+Top level modules:
+	dispatch
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/register_file.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/register_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/pravah_top.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/pravah_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pravah_top
+
+Top level modules:
+	pravah_top
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/tb/tb_pravah_top.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/tb/tb_pravah_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_pravah_top
+
+Top level modules:
+	tb_pravah_top
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/alu.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/fetch.v {1 {vlog -work work -stats=none C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/fetch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fetch
+
+Top level modules:
+	fetch
+
+} {} {}}

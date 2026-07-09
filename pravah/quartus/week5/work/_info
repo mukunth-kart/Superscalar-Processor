@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vdecode
+Z0 !s110 1783419993
+!i10b 1
+!s100 ?=<5PDAnZ?@dX_6D3G1mz1
+I6_1^ec_Vf=n<<Lh;<Lcah1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/quartus/week5
+w1783412588
+8C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/decode.v
+FC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/decode.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1783419993.000000
+!s107 C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/decode.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdispatch
+Z7 !s110 1783419992
+!i10b 1
+!s100 ^;7ZLBEOBh6BUjiIU@KUc2
+IU4FJKeez5jVidCBzIZk2=1
+R1
+R2
+w1783416698
+8C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/dispatch.v
+FC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/dispatch.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1783419992.000000
+!s107 C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/dispatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/dispatch.v|
+!i113 1
+R5
+R6
+vfetch
+R0
+!i10b 1
+!s100 c?F;m4UO65>NhbJX=T4BH0
+I>_h`SLlakmK9;7j8;:ndP2
+R1
+R2
+w1783411838
+8C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/fetch.v
+FC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/fetch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/fetch.v|
+!i113 1
+R5
+R6
+vrename_unit
+R0
+!i10b 1
+!s100 e^hH6h[MYh<n7HKzk^nfD2
+I31NS@nOVn^JTXd95ff1he2
+R1
+R2
+w1783416243
+8C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rename_unit.v
+FC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rename_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rename_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/rename_unit.v|
+!i113 1
+R5
+R6
+vreservation_station
+R7
+!i10b 1
+!s100 M[A4c^54mdG9ZQ@eQV1c80
+IffHK4anV8Oh3XW=V]`3WP2
+R1
+R2
+w1783417057
+8C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/reservation_station.v
+FC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/reservation_station.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/reservation_station.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/rtl/reservation_station.v|
+!i113 1
+R5
+R6
+vtb_frontend
+R7
+!i10b 1
+!s100 0>7zQ`GH7CBEJ930UNc6Y3
+I6iWZHlL6n7lS@eTCSV4B@1
+R1
+R2
+w1783419129
+8C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/tb/tb_frontend.v
+FC:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/tb/tb_frontend.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/tb/tb_frontend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Downloads/IITB/2_XTRA/SoC26/Mentee/Superscalar-Processor-SoC26/pravah/tb/tb_frontend.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,36 @@
+# vsim -c -do "run -all; quit" tb_pravah_perf 
+# Start time: 16:12:20 on Jul 09,2026
+# Loading work.tb_pravah_perf
+# Loading work.pravah_top
+# Loading work.fetch
+# Loading work.decode
+# Loading work.rename_unit
+# Loading work.dispatch
+# Loading work.reservation_station
+# Loading work.register_file
+# Loading work.alu
+# Loading work.rob
+# ** Warning: (vsim-3017) ../rtl/pravah_top.v(94): [TFMPC] - Too few port connections. Expected 13, found 10.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_pravah_perf/dut/u_decode_A File: ../rtl/decode.v
+# ** Warning: (vsim-3722) ../rtl/pravah_top.v(94): [TFMPC] - Missing connection for port 'is_branch_o'.
+# ** Warning: (vsim-3722) ../rtl/pravah_top.v(94): [TFMPC] - Missing connection for port 'is_memory_o'.
+# ** Warning: (vsim-3722) ../rtl/pravah_top.v(94): [TFMPC] - Missing connection for port 'fu_type_o'.
+# ** Warning: (vsim-3017) ../rtl/pravah_top.v(107): [TFMPC] - Too few port connections. Expected 13, found 10.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_pravah_perf/dut/u_decode_B File: ../rtl/decode.v
+# ** Warning: (vsim-3722) ../rtl/pravah_top.v(107): [TFMPC] - Missing connection for port 'is_branch_o'.
+# ** Warning: (vsim-3722) ../rtl/pravah_top.v(107): [TFMPC] - Missing connection for port 'is_memory_o'.
+# ** Warning: (vsim-3722) ../rtl/pravah_top.v(107): [TFMPC] - Missing connection for port 'fu_type_o'.
+# run -all
+# ==========================================
+#   PRAVAH Performance Report
+# ==========================================
+#   Instructions committed : 15
+#   Total cycles (reset to last commit) : 10
+#   Cycles in steady state : 8
+#   End-to-end IPC  = 1.500000
+#   Steady-state IPC = 1.875000
+# ==========================================
+# ** Note: $finish    : ../tb/tb_pravah_perf.v(69)
+#    Time: 5 us  Iteration: 0  Instance: /tb_pravah_perf
+# End time: 16:12:20 on Jul 09,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 8

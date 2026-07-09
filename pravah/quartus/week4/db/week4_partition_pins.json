@@ -1,0 +1,453 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "disp_stall_o",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[5]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[6]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[7]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[8]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[9]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[10]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[11]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[12]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[13]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[14]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[15]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[16]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[17]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[18]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[19]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[20]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[21]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[22]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_addr_o[23]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[5]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[6]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[7]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[8]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[9]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[10]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[11]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[12]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[13]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[14]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[15]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[16]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[17]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[18]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[19]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[20]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[21]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[22]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_addr_o[23]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_valid_o",
+					"strict" : false
+				},
+				{
+					"name" : "issue_op_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_op_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_op_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_op_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pj_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pj_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pj_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pj_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pj_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pj_o[5]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pk_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pk_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pk_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pk_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pk_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pk_o[5]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pd_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pd_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pd_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pd_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pd_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_pd_o[5]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_rob_idx_o[0]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_rob_idx_o[1]",
+					"strict" : false
+				},
+				{
+					"name" : "issue_rob_idx_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_valid_i",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_ready_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_ready_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_ready_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_ready_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_ready_i[2]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_ready_i[2]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pj_ready_i[3]",
+					"strict" : false
+				},
+				{
+					"name" : "snoop_pk_ready_i[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_i",
+					"strict" : false
+				},
+				{
+					"name" : "reset_i",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pj_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pj_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pj_i[2]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pj_i[3]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pj_i[4]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pj_i[5]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pk_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pk_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pk_i[2]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pk_i[3]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pk_i[4]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pk_i[5]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_op_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_op_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_op_i[2]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_op_i[3]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pd_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pd_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pd_i[2]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pd_i[3]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pd_i[4]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_pd_i[5]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_rob_idx_i[0]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_rob_idx_i[1]",
+					"strict" : false
+				},
+				{
+					"name" : "disp_rob_idx_i[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
